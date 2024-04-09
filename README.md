@@ -1,1 +1,1 @@
-# DeepSAE
+# pretrained model on BindingDB
